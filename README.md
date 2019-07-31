@@ -1,3 +1,3 @@
-# Python tricks
+# Learning Python
 
-Repository to put some tricks with python
+- [x] tricks with python
