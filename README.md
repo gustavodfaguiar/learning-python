@@ -1,3 +1,4 @@
 # Learning Python
 
-- [x] tricks with python
+- [x] Tricks with python
+- [ ] Data structure and Algorithms Udemy
